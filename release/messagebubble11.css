@@ -79,7 +79,7 @@
 
 #app-mount .contents-2MsGLg {
     background-color: var(--background-secondary);
-    border-radius: 3px;
+    border-radius: 9px;
     width: fit-content;
 }
 #app-mount .contents-2MsGLg {
@@ -91,7 +91,7 @@
     display: flex;
     flex-direction: column;
 
-    border-radius: 3px;
+    border-radius: 9px;
 }
 #app-mount .message-2CShn3:hover .contents-2MsGLg,
 #app-mount .message-2CShn3.selected-2LX7Jy .contents-2MsGLg {
@@ -121,7 +121,7 @@
     background-color: var(--background-message-hover);
     margin-bottom: 0;
     padding: 6px;
-    border-radius: 3px;
+    border-radius: 9px;
     width: fit-content;
     max-width: 100%;
 }
@@ -145,7 +145,7 @@
 #app-mount .replying-eZ7p5z:before {
     width: 3px;
     height: calc(100% - 12px);
-    border-radius: 1.5px;
+    border-radius: 4.5px;
     left: 4px;
     top: 6px;
 }
